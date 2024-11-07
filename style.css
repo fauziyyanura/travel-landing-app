@@ -29,6 +29,7 @@ body{max-width: 600px;
     top: -3px;
     gap: 0px;
     opacity: 0px;
+    margin-left: 70px;
 }
 /* .header{
     width: 375px;
@@ -50,7 +51,8 @@ body{max-width: 600px;
     letter-spacing: 0.1em;
     text-align: left;
     color: #25A59E;
-    margin-left: -50px;
+    margin-left: -100px;
+
 }
 h1{
     color: #25A59E;
@@ -69,7 +71,7 @@ span{
 color: #25A59E;
 }
 .travel h2{
-    width: 327px;
+    
     height: 122px;
     gap: 0px;
     opacity: 0px;
@@ -181,6 +183,7 @@ color: #25A59E;
     line-height: 52px;
     margin-top: 80px;
     text-align: left;
+    margin-left: 50px;
 }
 .destination p{
     width: 335px;
@@ -195,6 +198,7 @@ color: #25A59E;
     color: #595959;
     margin-top: -30px;
     margin-bottom: 40px;
+    margin-left: 50px;
 }
 .card-container{
     width: Fill (1,200px)px;
@@ -202,6 +206,7 @@ color: #25A59E;
     gap: 40px;
     opacity: 0px;
     background: #FFFFFF;
+    margin-left: 3px;
 }
 .card{
     width: 370.67px ;
@@ -210,6 +215,7 @@ color: #25A59E;
     overflow: hidden;
     box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
     margin: 20px;
+    margin-left: 50px;
 }
 .card img{
     width: 100%;
@@ -242,6 +248,7 @@ margin-top: -5px;
     left: 17px;
     gap: 28px;
     opacity: 0px;
+    margin-left: 70px;
 }
 .ListCard h4{
     font-family: "Gilda Display";
@@ -255,6 +262,7 @@ margin-top: -5px;
     border: 0.2px 0px 0px 0px;
     opacity: 0px;
     color: #262626;
+    
 }
 .ListCard p{
     font-family: "Urbanist";
@@ -267,6 +275,7 @@ margin-top: -5px;
     margin-top: -30px;
     color: #595959;
     margin-bottom: 40px;
+    
 }
 .card-list{
     width: Fill (335px)px;
@@ -397,6 +406,9 @@ margin-top: -5px;
     position: relative;
     transform: translateY(80%);
 }
+.arrow-right-1{
+    margin-left: 50px;
+}
 .arrow-right img{
 width: 16px;
 height: 16px;
@@ -500,6 +512,7 @@ position: absolute;
     left: 20px;
     gap: 28px;
     opacity: 0px;
+    margin-left: 70px;
 }
 .memorable p{
     width: 335px;
@@ -541,6 +554,7 @@ position: absolute;
     background: #FFFFFF;
     margin-top: -30px;
     margin-bottom: -150px;
+    margin-left: 50px;
 }
 .Watch h5{
     font-family: "Gilda Display";
@@ -555,6 +569,7 @@ position: absolute;
     opacity: 0px;
     color: #262626;
     margin-left: -10px;
+    margin-bottom: -1px;
 }
 .Watch img{
     width: 375px;
@@ -562,6 +577,9 @@ position: absolute;
     gap: 0px;
     opacity: 0px;
     margin-top: -50px;
+}
+iframe{
+margin-top: 30px;
 }
 footer{
     width: Fixed (375px)px;
@@ -571,6 +589,8 @@ footer{
     gap: 42px;
     opacity: 0px;
     background: #FFFFFF;
+    margin-left: 50px;
+    
 }
 .offer{
     width: Fill (375px)px;
@@ -590,15 +610,11 @@ footer{
     gap: 0px;
     border: 0.2px 0px 0px 0px;
     opacity: 0px;
+    margin-top: 140px
 }
-.offer img{
-    width: Hug (147px);
-    height: Hug (54px);
-    padding: 16px 32px 16px 32px;
-    gap: 10px;
-    opacity: 0px;
-    background: #25A59E;
-    margin-top: -100px;
+.Primer{
+    margin-top: -70px;
+    margin-bottom: 80px;
     }
 .Group h6{
     width: 52px;
