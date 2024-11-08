@@ -46,14 +46,14 @@ Check out live demo of my project: [Live Demo Link](https://travel-landing-app.o
 1\. **Clone the repository:**
 
 ```sh
-git clone https://github.com/fauziyyanura/travel-website-1.git
+git clone https://github.com/fauziyyanura/travel-landing-app.git
 
 ```
 
 2\. **Navigate to the Project Directory:**
 
 ```sh
-cd travel-website-1
+cd travel-landing-app
 
 ```
 3\. **Open in a Browser:**
