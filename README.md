@@ -31,7 +31,6 @@ The travel Website is a platform tnat allows users to explore various travel des
 ## Live Demo
 Check out live demo of my project: [Live Demo Link](https://travel-landing-app.onrender.com)
 
-
 ## Features
 -Responsive Design
 -Interactive Navigation:User-friendly navigation to easily explore different sections of the website.
@@ -47,14 +46,14 @@ Check out live demo of my project: [Live Demo Link](https://travel-landing-app.o
 1\. **Clone the repository:**
 
 ```sh
-git clone https://github.com/fauziyyanura/travel-website-1.git
+git clone https://github.com/fauziyyanura/travel-landing-app.git
 
 ```
 
 2\. **Navigate to the Project Directory:**
 
 ```sh
-cd travel-website-1
+cd travel-landing-app
 
 ```
 3\. **Open in a Browser:**
@@ -83,6 +82,9 @@ If you have any questions or need further assistance, feel free to reach out:
 - **Name:** Fauziyya Nura
 - **Email:** fauziyyanuraahmad@gmail.com
 - **GitHub:** https://github.com/fauziyyanura
+- **Website:** https://travel-landing-app.onrender.com
+
+  Thank you for visiting the Travel Website mobile view repository.We hope you find it useful and enjoy contributing to the project!
 
 
 
