@@ -29,7 +29,8 @@ Welcome to the Travel Website project! This repository contains the mobile view 
 The travel Website is a platform tnat allows users to explore various travel destinations, discover attractions, accomodations and activities and plan their trips seamlessly.This repositiry focuses specifically on the mobile view, ensuring an optimized and engaging experience for users on smaller screens.
 
 ## Live Demo
-Check out live demo of my project: [Live Demo Link](https://raw.githack.com/fauziyyanura/travel-website-1/feature/index.html
+Check out live demo of my project: [Live Demo Link](https://travel-landing-app.onrender.com)
+
 
 ## Features
 -Responsive Design
