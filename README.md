@@ -23,6 +23,8 @@ Welcome to the Travel Website project! This repository contains the mobile view 
 
 -[Licenses](#Licenses)
 
+-[Learn more about my travel website](#learn-more-about-my-travel-website)
+
 -[Author(s)](#authors)
 
 ## Introduction
@@ -76,6 +78,9 @@ To use the mobile view,open the site on a mobile or smaller screen.The site is o
 
 ## Licenses
 This project is licensed under the MIT Licenses - See the [LICENSE](LICENSE) file for more details.
+
+## Learn more about my travel website
+Watch my loom video: [video](https://www.loom.com/share/c7fff81ab2b148dca16b5082183bb02f?sid=32bc4d0c-ece8-45f7-a226-12aaf1c2473f)
 
 ## Author(s)
 If you have any questions or need further assistance, feel free to reach out:
