@@ -1,0 +1,678 @@
+body{max-width: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+}
+.nav{
+    width: Fixed (375px)px;
+    height: Fixed (60px)px;
+    padding: 16px 20px 16px 20px;
+    gap: 0px;
+    justify-content: space-between;
+    opacity: 0px;
+    display: flex;
+}
+.nav{
+    font-family: "Gilda display";
+    color: #25A59E;
+    font-size: 30px;
+    display: flex;
+    margin-left: 40px;
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+.nav img{
+    height: 24px;
+    width: 24px;
+}
+.header{
+    width: 375px;
+    height: 473px;
+    top: -3px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 70px;
+}
+/* .header{
+    width: 375px;
+    height: 473px;
+    top: -3px;
+    gap: 0px;
+    opacity: 0px;
+} */
+.nav h1{
+    width: 52px;
+    height: 19px;
+    gap: 0px;
+    border: 0.7px 0px 0px 0px;
+    opacity: 0px;
+    font-family: "Gilda display";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.83px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #25A59E;
+    margin-left: -100px;
+
+}
+h1{
+    color: #25A59E;
+    padding-bottom: 50px;
+}
+h1,.span{
+    font-family: "Gilda display";
+    color: #262626;
+    font-size: 30px;
+    display: flex;
+    margin-left: 40px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+span{
+color: #25A59E;
+}
+.travel h2{
+    
+    height: 122px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "Gilda Display";
+    font-size: 52px;
+    font-weight: 400;
+    line-height: 61.2px;
+    text-align: center;
+    margin-bottom:-50px;
+    margin-top: -20px;
+    margin-left: 240px;
+}
+.travel-image{
+    position: relative;
+    max-width: 375px;
+    height: 567px;
+    margin-left: -10px;
+    margin-top: -80px;
+}
+.travel-image Image {
+    width: 400px; 
+    width: 432.6px;
+    height: 228px;
+    top: 24px;
+    left: 16.8px;
+    margin-bottom: 10px;
+    margin-top: 300px;
+}
+.Blurry{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top:  -50px;
+    margin-left: -10px;
+    margin-bottom: 400px;
+    width: 211px;
+    height: 211px;
+    gap: 0px;
+    opacity: 0px;
+}
+.Ellipse{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 50px;
+    width: 333px;
+    margin-top: 99px;
+    margin-left: 20px;
+}
+.Image{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: -20px;
+    margin-top: 48px;
+}
+.Image{
+    margin-bottom: 50%;
+    padding: 20px;
+}
+.travel{
+    display: flex;
+    padding:  5px; 
+    font-family: "Gilda Display";
+    font-size: 52px;
+    font-weight: 400;
+    line-height: 61.2px;
+    text-align: center;
+    width: 100px;
+    height: 122px;
+    gap: 0px;
+    opacity: 0px;
+}
+.travel{
+    position: relative;
+    justify-content: center;
+    font-weight: 50px;
+    height: 122px;
+    gap: 0px;
+    opacity: 0px;
+    size: 400px;
+}
+.h1{
+    padding: bottom 20px;
+    color: #25A59E;
+}
+.h1{
+    color: #25A59E;
+    justify-content: space-between;
+    overflow: hidden;
+    font-size: 60px; 
+    width: 52px;
+    height: 19px;
+    font-family: "Gilda Display";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.83px;
+    letter-spacing: 0.1em;
+    text-align: left;
+}
+.destination h3{
+    width: 335px;
+    height: 104px;
+    gap: 0px;
+    border: 0.2px 0px 0px 0px;
+    font-family: "Gilda Display";
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 52px;
+    margin-top: 80px;
+    text-align: left;
+    margin-left: 50px;
+}
+.destination p{
+    width: 335px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "Urbanist";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #595959;
+    margin-top: -30px;
+    margin-bottom: 40px;
+    margin-left: 50px;
+}
+.card-container{
+    width: Fill (1,200px)px;
+    height: Hug (848px)px;
+    gap: 40px;
+    opacity: 0px;
+    background: #FFFFFF;
+    margin-left: 3px;
+}
+.card{
+    width: 370.67px ;
+    background-color: #FFFFFF;
+    border: 8px;
+    overflow: hidden;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    margin: 20px;
+    margin-left: 50px;
+}
+.card img{
+    width: 100%;
+    height: auto;
+}
+.card-location{
+    padding: 16px;
+}
+.card-location h3{
+font-family: "Urbanist";
+font-size: 20px;
+font-weight: 700;
+line-height: 28px;
+text-align: left;
+color: #262626;
+margin-bottom: -50px;
+margin-top: -5px;
+}
+.card-location img{
+    width: Fill (330.67px);
+    height: Hug (32px);
+    gap: 8px;
+    opacity: 0.7px;
+    margin-top: -200px;
+}
+.section-2{
+    width: Fixed(335px);
+    height: Hug (1,096px);
+    top: 3263px;
+    left: 17px;
+    gap: 28px;
+    opacity: 0px;
+    margin-left: 70px;
+}
+.ListCard h4{
+    font-family: "Gilda Display";
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 52px;
+    text-align: center;
+    width: 335px;
+    height: 104px;
+    gap: 0px;
+    border: 0.2px 0px 0px 0px;
+    opacity: 0px;
+    color: #262626;
+    
+}
+.ListCard p{
+    font-family: "Urbanist";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    width: 335px;
+    height: 144px;
+    margin-top: -30px;
+    color: #595959;
+    margin-bottom: 40px;
+    
+}
+.card-list{
+    width: Fill (335px)px;
+    height: Hug (808px)px;
+    gap: 20px;
+    opacity: 0px;
+}
+.card-1{
+    width: 300px;
+    height: Hug (257px);
+    padding: 28px 20px 32px 20px;
+    gap: 40px;
+    opacity: 0px;
+    background: #FFFFFF;
+    box-shadow: 10px 26px 150px 0px #4343641A;
+}
+.card-1 p{
+    width: 295px;
+    height: 46px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "Urbanist";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    text-align: left;
+    color: #737373;
+    margin-bottom: 50px;
+    margin-top: 55px;
+}
+.card-1 h4{
+    font-family: "Gilda Display";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: left;
+    width: 295px;
+    height: 80px;
+    gap: 0px;
+    border: 0.4px 0px 0px 0px;
+    opacity: 0px;
+    margin-top: -30px;
+}
+.card-1 img{
+    width: 84px;
+    height: 23px;
+    gap: 0px;
+    border: 0.2px 0px 0px 0px;
+    opacity: 0px;
+    font-family: "Gilda Display";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    text-align: left;
+    color: #25A59E;
+    margin-left: 200px;
+    margin-top: -200px;
+}
+.ListTop img{
+    width: 335.33px;
+    height: 4px;
+    gap: 0px;
+    opacity: 0px;
+    background: #25A59E;
+    justify-items: start;
+    margin-left: -20px;
+    transform: translateY(-900%);
+}
+.card-2{
+    width: 300px;
+    height: Hug (254px);
+    padding: 28px 20px 32px 20px;
+    gap: 40px;
+    opacity: 0px;
+    background: #25A59E;
+    box-shadow: 10px 26px 150px 0px #4343641A;
+    margin-bottom: 20px;
+}
+.card-2 h4{
+    width: 295px;
+    height: 80px;
+    gap: 0px;
+    border: 0.4px 0px 0px 0px;
+    opacity: 0px;
+    font-family: "Gilda Display";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: left;
+    color: #FFFFFF;
+}
+.card-2 p{
+    width: 295px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "Urbanist";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #FFFFFFCC;
+}
+.More{
+    text-align: left;
+    margin-left: 180px;
+    margin-bottom: -20px;
+    color: #FFFFFF;
+}
+.More{
+    display: flex;
+    align-items: center;
+    color: #25A59E;
+    font-family: "Gilda Display";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    width: 84px;
+    height: 23px;
+    gap: 0px;
+    border: 0.2px 0px 0px 0px;
+    opacity: 0px;
+}
+.More-2{
+    color: #FFFFFF;
+    margin-left: 150px;
+    bottom: none;
+    position: relative;
+    transform: translateY(80%);
+}
+.arrow-right-1{
+    margin-left: 50px;
+}
+.arrow-right img{
+width: 16px;
+height: 16px;
+gap: 0px;
+opacity: 0px;
+margin-left: 280px;
+position: absolute;
+}
+.card-2 img{
+    width: Hug (112px);
+    height: Hug (18px);
+    gap: 12px;
+    opacity: 0px;
+    width: 84px;
+    height: 18px;
+    gap: 0px;
+    border: 0.2px 0px 0px 0px;
+    opacity: 0px;
+    font-family: "Gilda Display";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 17.66px;
+    text-align: left;
+    margin-left: 200px;
+    
+}
+.card-2 img{
+    width: 16px;
+    height: 16px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 270px;
+    color: #FFFFFF;
+    background: #FFFFFF;
+}
+.card-3{
+    width: 300px;
+    height: Hug (257px)px;
+    padding: 28px 20px 32px 20px;
+    gap: 40px;
+    opacity: 0px;
+    background: #FFFFFF;
+    box-shadow: 10px 26px 150px 0px #4343641A;
+}
+.ListTop-1 {
+    width: 335.33px;
+    height: 4px;
+    gap: 0px;
+    opacity: 0px;
+    background: #25A59E;
+    margin-top: -30px;
+    margin-left: -20px;
+    justify-items: start;
+
+}
+.card-3 h4{
+    width: 295px;
+    height: 80px;
+    gap: 0px;
+    border: 0.4px 0px 0px 0px;
+    opacity: 0px;
+    font-family: "Gilda Display";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: left;
+    color: #262626;
+}
+.card-3 p{
+    width: 295px;
+    height: 46px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "Urbanist";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    text-align: left;
+    color: #737373;
+}
+.card-3 img{
+    width: 84px;
+    height: 23px;
+    gap: 0px;
+    border: 0.2px 0px 0px 0px;
+    opacity: 0px;
+    font-family: "Gilda Display";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    text-align: left;
+    margin-left: 200px;
+}
+.arrow-right-2 img{
+    transform: translateX(50%);
+}
+.memorable{
+    width: Fixed (335px)px;
+    height: Hug (487px)px;
+    top: 4427px;
+    left: 20px;
+    gap: 28px;
+    opacity: 0px;
+    margin-left: 70px;
+}
+.memorable p{
+    width: 335px;
+    height: 96px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "Urbanist";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    margin-top: -50px;
+}
+.memorable img{
+    width: 335px;
+    height: 247px;
+    gap: 0px;
+    opacity: 0px; 
+}
+.memorable h5{
+    font-family: "Gilda Display";
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 52px;
+    text-align: left; 
+    width: 335px;
+    height: 104px;
+    gap: 0px;
+    border: 0.2px 0px 0px 0px;
+    opacity: 0px;
+    color: #262626;
+}
+.Watch {
+    width: Hug (375px)px;
+    height: Hug (400px)px;
+    top: 4955px;
+    gap: 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+    margin-top: -30px;
+    margin-bottom: -150px;
+    margin-left: 50px;
+}
+.Watch h5{
+    font-family: "Gilda Display";
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 52px;
+    text-align: center;
+    width: 400px;
+    height: 156px;
+    gap: 0px;
+    border: 0.2px 0px 0px 0px;
+    opacity: 0px;
+    color: #262626;
+    margin-left: -10px;
+    margin-bottom: -1px;
+}
+.Watch img{
+    width: 375px;
+    height: 220px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: -50px;
+}
+iframe{
+margin-top: 30px;
+}
+footer{
+    width: Fixed (375px)px;
+    height: Hug (553px)px;
+    top: 5355px;
+    padding: 40px 0px 40px 0px;
+    gap: 42px;
+    opacity: 0px;
+    background: #FFFFFF;
+    margin-left: 50px;
+    
+}
+.offer{
+    width: Fill (375px)px;
+    height: Hug (174px)px;
+    padding: 0px 20px 0px 20px;
+    gap: 16px;
+    opacity: 0px;
+}
+.offer h6{
+    font-family: "Gilda Display";
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 52px;
+    text-align: left;
+    width: 335px;
+    height: 104px;
+    gap: 0px;
+    border: 0.2px 0px 0px 0px;
+    opacity: 0px;
+    margin-top: 140px
+}
+.Primer{
+    margin-top: -70px;
+    margin-bottom: 80px;
+    }
+.Group h6{
+    width: 52px;
+    height: 19px;
+    gap: 0px;
+    border: 0.7px 0px 0px 0px;
+    opacity: 0px;
+    font-family: "Gilda Display";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.83px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #25A59E;
+}
+.Group p{
+    font-family: "Urbanist";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #595959;
+    width: 335px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: -30px;
+}
+.Group img{
+    width: Fill (335px);
+    height: Hug (42px);
+    gap: 0px;
+    justify-content: space-between;
+    opacity: 0px;
+    margin-left: 60px;
+    margin-bottom: 50px;
+}
+.nav-links{
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    width: Fill (375px);
+    height: Hug (24px);
+    padding: 0px 20px 0px 20px;
+    gap: 0px;
+    justify-content: space-between;
+    opacity: 0px;
+}
+.header-Links h6 {
+display: inline;
+margin: 0 10px;
+font-family: "Urbanist";
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+color: #595959;
+}
+
+ 
