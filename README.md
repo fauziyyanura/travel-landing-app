@@ -1,5 +1,5 @@
-# Travel website 
-Welcome to the Travel Website project! This repository contains the mobile view implementation of our travel website, designed with HTML and CSS to provide a visually appealing and user-friendly experience for travelers planning their next adventure.
+# Travel website mobile view and desktop view
+Welcome to the Travel Website project! This repository contains the mobile and desktop view implementation of our travel website, designed with HTML and CSS to provide a visually appealing and user-friendly experience for travelers planning their next adventure.
 
 
 ## Table of Contents
@@ -28,13 +28,13 @@ Welcome to the Travel Website project! This repository contains the mobile view 
 -[Author(s)](#authors)
 
 ## Introduction
-The travel Website is a platform tnat allows users to explore various travel destinations, discover attractions, accomodations and activities and plan their trips seamlessly.This repositiry focuses specifically on the mobile view, ensuring an optimized and engaging experience for users on smaller screens.
+The travel Website is a platform tnat allows users to explore various travel destinations, discover attractions, accomodations and activities and plan their trips seamlessly.This repositiry focuses specifically on the desktop view, ensuring an optimized and engaging experience for users on larger and smaller screens as well.
 
 ## Live Demo
 Check out live demo of my project: [Live Demo Link](https://travel-landing-app.onrender.com)
 
 ## Features
--Responsive Design
+-Responsive Design:A mobile optimized and desktop layout that adapt to various screen sizes and resolutions.
 -Interactive Navigation:User-friendly navigation to easily explore different sections of the website.
 -Attraction and Accomodation Listings:Detailed sections for attractions and lodging options with images and descriptions.
 -Activity Recommendations:Suggestion for activities based on destination and user interests.
@@ -59,7 +59,7 @@ cd travel-landing-app
 
 ```
 3\. **Open in a Browser:**
-Open index.html in your preferred browser to view the mobile version of the website.
+Open index.html in your preferred browser to view the mobile and desktop version of the website.
 
 ```sh
 Open index.html
@@ -74,7 +74,7 @@ The mobile view of the travel website is designed with HTML and CSS to provide o
 -Content Layout:Detailed and visually appealing presentation of travel information.
 -Interactive Elements:Enhanced engagement through hover effects and interactive features.
 
-To use the mobile view,open the site on a mobile or smaller screen.The site is optimized for resolution of 600 pixels.
+To use the desktop view,open the site on a desktop browser or larger screen.The site is optimized for resolution of 1280x720 pixels or higher.
 
 ## Licenses
 This project is licensed under the MIT Licenses - See the [LICENSE](LICENSE) file for more details.
@@ -84,12 +84,12 @@ Watch my loom video: [video](https://www.loom.com/share/c7fff81ab2b148dca16b5082
 
 ## Author(s)
 If you have any questions or need further assistance, feel free to reach out:
-- **Name:** Fauziyya Nura
+- **Name:** Fauziyya Nura Ahmed
 - **Email:** fauziyyanuraahmad@gmail.com
 - **GitHub:** https://github.com/fauziyyanura
 - **Website:** https://travel-landing-app.onrender.com
 
-  Thank you for visiting the Travel Website mobile view repository.We hope you find it useful and enjoy contributing to the project!
+  Thank you for visiting the Travel Website desktop view repository.We hope you find it useful and enjoy contributing to the project!
 
 
 
