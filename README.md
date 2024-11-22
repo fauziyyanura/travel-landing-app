@@ -31,7 +31,7 @@ Welcome to the Travel Website project! This repository contains the mobile and d
 The travel Website is a platform tnat allows users to explore various travel destinations, discover attractions, accomodations and activities and plan their trips seamlessly.This repositiry focuses specifically on the desktop view, ensuring an optimized and engaging experience for users on larger and smaller screens as well.
 
 ## Live Demo
-Check out live demo of my project: [Live Demo Link](https://travel-landing-app.onrender.com)
+Check out live demo of my project: [Live Demo Link](https://travel-website-page.onrender.com)
 
 ## Features
 -Responsive Design:A mobile optimized and desktop layout that adapt to various screen sizes and resolutions.
@@ -80,14 +80,14 @@ To use the desktop view,open the site on a desktop browser or larger screen.The 
 This project is licensed under the MIT Licenses - See the [LICENSE](LICENSE) file for more details.
 
 ## Learn more about my travel website
-Watch my loom video: [video](https://www.loom.com/share/c7fff81ab2b148dca16b5082183bb02f?sid=32bc4d0c-ece8-45f7-a226-12aaf1c2473f)
+Watch my loom video: [video](https://www.loom.com/share/1a0a3c4eb8a649fdb9909f531f756bed?sid=a12a5369-a1c2-41ca-80f2-6b3e38b858dd)
 
 ## Author(s)
 If you have any questions or need further assistance, feel free to reach out:
 - **Name:** Fauziyya Nura Ahmed
 - **Email:** fauziyyanuraahmad@gmail.com
 - **GitHub:** https://github.com/fauziyyanura
-- **Website:** https://travel-landing-app.onrender.com
+- **Website:** https://travel-website-page.onrender.com
 
   Thank you for visiting the Travel Website desktop view repository.We hope you find it useful and enjoy contributing to the project!
 
